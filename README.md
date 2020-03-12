@@ -1,4 +1,6 @@
 # open-xml-dll-IncubuSpirit
 open-xml-dll-IncubuSpirit created by GitHub Classroom
 
-README creata per descrivere la mia repository
+Stefirca Alex 4^B Informatica 
+
+README creata come guida alla mia repository
